@@ -1,7 +1,8 @@
 package DS.Java;
 
 import java.util.Arrays;
-
+//selection sort is a inplace sorting algorithm
+//time complexity is O(n^2) and space complexity is O(1)
 public class SelectionSort {
 
     public static int[] selectionSort(int arr[]){
